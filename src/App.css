@@ -1,0 +1,12 @@
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-y: hidden;
+}
+
+@media (max-width: 480px) {
+  h2 {
+    font-size: 1.5rem !important;
+  }
+}

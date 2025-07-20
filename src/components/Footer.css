@@ -1,0 +1,33 @@
+
+.footer {
+  background-color: #222;
+  position: relative;
+  color: #fff;
+  padding: 1.5rem 1rem;
+  margin-top: 3rem;
+  text-align: center;
+  font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.footer-content {
+  max-width: 1000px;
+  margin: auto;
+  
+}
+
+.footer-links {
+  margin-top: 0.5rem;
+  justify-content: center;
+}
+
+.footer-links a {
+  margin: 0 1rem;
+  color: #bbb;
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: color 0.3s ease;
+}
+
+.footer-links a:hover {
+  color: #fff;
+}
